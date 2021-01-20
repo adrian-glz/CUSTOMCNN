@@ -1,0 +1,114 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="mx.sounds.customssn"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:7:5-47
+8        android:minSdkVersion="9"
+8-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:7:5-47
+9        android:targetSdkVersion="29" />
+9-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:7:15-44
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:9:5-67
+11-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:9:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:10:5-79
+12-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:10:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:11:5-81
+13-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:11:22-78
+14
+15    <uses-feature
+15-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:13:5-15:35
+16        android:name="android.hardware.camera"
+16-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:14:9-47
+17        android:required="true" />
+17-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:15:9-32
+18
+19    <application
+19-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:17:5-59:19
+20        android:allowBackup="true"
+20-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:18:9-35
+21        android:debuggable="true"
+22        android:icon="@drawable/ic_launcher"
+22-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:19:9-45
+23        android:label="@string/app_name"
+23-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:20:9-41
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:21:9-40
+26        <activity
+26-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:22:9-30:20
+27            android:name="mx.sounds.customssn.MainActivity"
+27-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:23:13-41
+28            android:label="@string/app_name" >
+28-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:24:13-45
+29            <intent-filter>
+29-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:25:13-29:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:26:17-69
+30-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:26:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:28:17-77
+32-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:28:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:31:9-38:20
+36            android:name="mx.sounds.customssn.CapturarActivity"
+36-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:32:13-45
+37            android:label="@string/title_activity_capturar"
+37-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:33:13-60
+38            android:parentActivityName="mx.sounds.customssn.MainActivity" >
+38-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:34:13-55
+39            <meta-data
+39-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:35:13-37:68
+40                android:name="android.support.PARENT_ACTIVITY"
+40-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:36:17-63
+41                android:value="mx.sounds.customssn.MainActivity" />
+41-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:37:17-65
+42        </activity>
+43        <activity
+43-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:39:9-46:20
+44            android:name="mx.sounds.customssn.ConsultaActivity"
+44-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:40:13-45
+45            android:label="@string/title_activity_consulta"
+45-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:41:13-60
+46            android:parentActivityName="mx.sounds.customssn.MainActivity" >
+46-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:42:13-55
+47            <meta-data
+47-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:35:13-37:68
+48                android:name="android.support.PARENT_ACTIVITY"
+48-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:36:17-63
+49                android:value="mx.sounds.customssn.MainActivity" />
+49-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:37:17-65
+50        </activity>
+51        <activity
+51-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:47:9-54:20
+52            android:name="mx.sounds.customssn.ConsultaTotalesActivity"
+52-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:48:13-52
+53            android:label="@string/title_activity_consulta_totales"
+53-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:49:13-68
+54            android:parentActivityName="mx.sounds.customssn.MainActivity" >
+54-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:50:13-55
+55            <meta-data
+55-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:35:13-37:68
+56                android:name="android.support.PARENT_ACTIVITY"
+56-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:36:17-63
+57                android:value="mx.sounds.customssn.MainActivity" />
+57-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:37:17-65
+58        </activity>
+59        <activity
+59-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:55:9-58:20
+60            android:name="mx.sounds.customssn.SubirFotosActivity"
+60-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:56:13-47
+61            android:label="@string/title_activity_subir_fotos" >
+61-->C:\Users\AGONZALEZ\Desktop\CustomsSN\app\src\main\AndroidManifest.xml:57:13-63
+62        </activity>
+63    </application>
+64
+65</manifest>

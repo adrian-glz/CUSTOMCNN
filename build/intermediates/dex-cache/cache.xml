@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\libs\jvftp.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="74dc94f7c9d2f2aa02f17961a4e4788de39b63f5">
+        <dex dex="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\pre-dexed\debug\jvftp_361506cf291a11d25a5a454f031fa55ad405c95b.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\libs\postgresql-9.3-1101.jdbc41.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dfa6c29a6c81094260cd903d40475e84c731cbd9">
+        <dex dex="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\pre-dexed\debug\postgresql-9.3-1101.jdbc41_1d4008efd5de2d6d46577843b53eeee00b42e4df.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_1fee361f06da74a3f55cf18e036a04e6b1f6af7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\libs\jsch-0.1.49.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ffcaeafe80d9d0d2ae871779e48b084699a9905">
+        <dex dex="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\pre-dexed\debug\jsch-0.1.49_1c742cea5570c1d24d245ff3e05174220e93fce3.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\23.3.0\db7791d75a07fef9844d06236c1c59ba7bf6997c\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_693b15a2a0e1c82562978a688a1beb5e531429c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_a94f6e591a8236c38578f5d4686f5355a73eefa0.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_5ac5cb9d5039570d26afada8f29115bc8efc3f0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_17730f91ac9314bcfed45ea265beb59b198f50e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\libs\commons-codec-1.8.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd">
+        <dex dex="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\pre-dexed\debug\commons-codec-1.8_72320e47b3ae85a1c363d517bb2547146eb0e6ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\AGONZALEZ\Desktop\CustomsSN\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_bda97588b1ba6b267dc585a0f44da260e444de86.jar" />
+    </item>
+
+</items>

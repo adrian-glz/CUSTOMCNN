@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Datos para Aduana</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_capturar">Capturar</string>
+    <string name="button_consultar">Consultar</string>
+    <string name="button_consultarTotales">Consultar Totales</string>
+    <string name="button_cerrar">Cerrar</string>
+    <string name="button_limpiar">Limpiar</string>
+    <string name="button_grabar">Grabar</string>
+    <string name="button_foto">Foto</string>
+    <string name="button_borrar">Borrar Reg</string>
+    <string name="subir_fotos">Subir Fotos</string>
+    <string name="edit_id">Capture ID</string>
+    <string name="edit_factura">Capture Factura</string>
+    <string name="edit_marca">Capture Marca</string>
+    <string name="edit_modelo">Capture Modelo</string>
+    <string name="edit_color">Capture Color</string>
+    <string name="edit_origen">Capture Origen</string>
+    <string name="edit_serie">Capture Serie</string>
+    <string name="edit_foto">Capture Foto</string>
+    <string name="text_factura">Factura</string>
+    <string name="text_marca">Marca</string>
+    <string name="text_modelo">Modelo</string>
+    <string name="text_color">Color</string>
+    <string name="text_origen">Origen</string>
+    <string name="text_serie">Serie</string>
+    <string name="text_foto">Foto</string>
+    <string name="text_loading">Subiendo Fotos...</string>
+    <string name="CheckBox_foto">Subir Foto Auto</string>
+    <string name="title_activity_capturar">Capturar Datos para Aduana</string>
+    <string name="title_activity_consulta">Seleccione Datos a Modificar</string>
+    <string name="title_activity_consulta_totales">Totales Capturados</string>
+    <string name="title_activity_subir_fotos">Subir Fotos</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
